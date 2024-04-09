@@ -1,0 +1,4 @@
+{"level":"info","message":"Parameters 4 and 3 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"4 and 3 are valid numbers ","service":"calculate-service"}
+{"level":"info","message":"Parameter 4 received for square root","service":"calculate-service"}
+{"level":"info","message":"4 and 0 are valid numbers ","service":"calculate-service"}
